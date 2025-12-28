@@ -1,0 +1,2 @@
+library(sdstudio)
+sdstudio::launch()
