@@ -1,3 +1,4 @@
 Title: sdstudio Launcher
 Type: shiny
+Depends: sdstudio (>= 0.1.5)
 Remotes: surveydown-dev/sdstudio
